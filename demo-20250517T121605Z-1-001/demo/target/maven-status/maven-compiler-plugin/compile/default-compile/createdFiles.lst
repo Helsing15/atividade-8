@@ -1,0 +1,5 @@
+model\controller\PacienteController.class
+model\controller\HomeController.class
+model\repository\PacienteRepository.class
+model\Paciente.class
+projetc\demo\DemoApplication.class
